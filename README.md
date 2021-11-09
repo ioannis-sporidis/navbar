@@ -1,6 +1,6 @@
 # Navbar component
 
-Click [here](https://ioannis-sporidis.github.io/rc-dark-mode/) to check out the component.
+Click [here](https://ioannis-sporidis.github.io/rc-navbar/) to check out the component.
 
 ## Dependencies
 
