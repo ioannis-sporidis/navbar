@@ -1,6 +1,6 @@
 # Navbar component
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-navbar/)
+Check out the component [here](https://the-fetaverse.github.io/rc-navbar/)
 ## Dependencies
 
 - [React](https://reactjs.org/)
